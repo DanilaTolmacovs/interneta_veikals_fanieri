@@ -1,0 +1,78 @@
+body
+{
+
+  background-color: chocolate;
+    
+}
+#fons
+{
+
+    background-color: black;
+    height: 770px;
+    padding: 75px;
+    border: 15px solid chocolate
+
+
+}
+
+
+#logo_teikums
+{
+
+    height: 150px;
+
+    font-weight: bolder
+
+}
+#container
+{
+ display: flex;  
+}
+#logo
+{
+    background-image: url(images/Finieru_logo_Test_2.png);
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    
+}
+#slogans
+{
+    color: blueviolet;
+    font-size: 100px;
+}
+
+
+
+#centrs
+{
+
+}
+#main
+{
+    margin-left: 32.5%;
+    margin-top: 110px;
+    background-color: blueviolet;
+    font-size: 75px;
+    width:max-content;
+    width: 35%;
+    text-align:center;
+    float: right 500px;
+}
+#teleport_area
+{
+    font-size: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+#teleports
+{
+    
+    font-weight: bolder;
+    height: 370px;
+    width: 450px;
+    background-color: blueviolet;
+
+    text-align:center;
+    
+}
